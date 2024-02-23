@@ -33,10 +33,10 @@ Next.js Config:
 ```
 
 
-### Which area(s) are affected? (Select all that apply)
+### Which area(s) are affected?
 
 App Router, Routing (next/router, next/navigation, next/link)
 
-### Which stage(s) are affected? (Select all that apply)
+### Which stage(s) are affected?
 
 next dev (local), next build (local), next start (local)
